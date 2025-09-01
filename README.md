@@ -11,7 +11,7 @@ Detailed proofs and certificates are provided in the respective folders.
 | Category               | Course                                                                                      | Link |
 |------------------------|---------------------------------------------------------------------------------------------|------|
 | **CS Fundamentals**    | CS50: Introduction to Computer Science (Harvard)                                            | [Certificate](#) |
-|                        | Discrete Structures (Saylor Academy)                                                        | [Certificate](#) |
+|                        | Discrete Structures (Saylor Academy)                                                        | [Certificate](https://learn.saylor.org/admin/tool/certificate/index.php?code=7872704344MA) |
 | **Algorithms**         | Algorithmic Toolbox (UCSD, Coursera)                                                        | [Certificate](#) |
 | **Systems**            | Operating Systems and You: Becoming a Power User (Google, Coursera)                         | [Certificate](#) |
 |                        | Computer Networks and Network Security (IBM, Coursera)                                      | [Certificate](#) |
