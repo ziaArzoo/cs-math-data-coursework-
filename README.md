@@ -1,4 +1,4 @@
-# 📘 Zia Arzoo – Relevant CS, Math & Data Coursework
+# 📘 Md Zia Arzoo – Relevant CS, Math & Data Coursework
 
 Welcome! This repository contains my coursework and certifications that supplement my B.Tech in Mechanical Engineering, demonstrating foundational and applied knowledge in Computer Science, Data Engineering, and Cloud Systems.  
 
@@ -45,6 +45,7 @@ Detailed proofs and certificates are provided in the respective folders.
 
 ## 📂 Additional Resources
 
+- Linkedin : [LinkedIn](https://www.linkedin.com/in/md-ziaarzoo/)
 - Technical Blog: [Link](https://medium.com/@ziaarzoo21)
 - LeetCode: [Leetcode](https://medium.com/@ziaarzoo21). 
 - Portfolio / Projects: [GitHub Projects](https://github.com/ziaarzoo21?tab=repositories)
