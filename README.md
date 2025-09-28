@@ -18,7 +18,7 @@ Detailed proofs and certificates are provided in the respective folders.
 | **Programming & Data** | Python for Everybody (UMich, Coursera) – Basics, Data Structures, Web Scraping              | [Certificate](https://coursera.org/share/ddd22d621c02d89f17d641378d0f4308), [Certificate](https://coursera.org/share/67119ab39ba2a848101948ec1631a953), [Certificate](https://www.coursera.org/account/accomplishments/verify/3QPQA9BF36WW?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) |
 |                        | Mastering Data Analysis in Excel (Duke University, Coursera)                                | [Certificate](https://www.coursera.org/account/accomplishments/verify/R5FUNZFZNCVQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) |
 |                        | Data Visualization – NumPy, Pandas, Matplotlib, Seaborn                                     | [Certificate](#) |
-| **Cloud & Tools**      | Microsoft Azure for Data Engineering (Microsoft Learn)                                      | [Certificate](#) |
+| **Cloud & Tools**      | Microsoft Azure for Data Engineering (Microsoft Learn)                                      | [Certificate](https://coursera.org/share/c033b8b2aabc4b2a1c54e79e4cb24e0d) |
 |                        | Git & Command Line (Openclassrooms)                                                         | [Certificate](#) |
 
 
