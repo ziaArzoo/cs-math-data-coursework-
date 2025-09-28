@@ -12,9 +12,9 @@ Detailed proofs and certificates are provided in the respective folders.
 |------------------------|---------------------------------------------------------------------------------------------|------|
 | **CS Fundamentals**    | CS50: Introduction to Computer Science (Harvard)                                            | [Certificate](#) |
 |                        | Discrete Structures (Saylor Academy)                                                        | [Certificate](https://learn.saylor.org/admin/tool/certificate/index.php?code=7872704344MA) |
-| **Algorithms**         | Algorithmic Toolbox (UCSD, Coursera)                                                        | [Certificate](#) |
-| **Systems**            | Operating Systems and You: Becoming a Power User (Google, Coursera)                         | [Certificate](#) |
-|                        | Computer Networks and Network Security (IBM, Coursera)                                      | [Certificate](#) |
+| **Algorithms**         | Algorithmic Toolbox (UCSD, Coursera)                                                        | [Certificate](https://coursera.org/share/c115eea5f1d3066451f57ef1e0dc3e0f) |
+| **Systems**            | Operating Systems and You: Becoming a Power User (Google, Coursera)                         | [Certificate](https://coursera.org/share/e9286d65beed25fe806c3afbfbb1b735) |
+|                        | Computer Networks and Network Security (IBM, Coursera)                                      | [Certificate](https://coursera.org/share/51c35ba24a20ea3b6ddfb7b5bab766e0) |
 | **Programming & Data** | Python for Everybody (UMich, Coursera) – Basics, Data Structures, Web Scraping              | [Certificate](https://coursera.org/share/ddd22d621c02d89f17d641378d0f4308), [Certificate](https://coursera.org/share/67119ab39ba2a848101948ec1631a953), [Certificate](https://www.coursera.org/account/accomplishments/verify/3QPQA9BF36WW?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) |
 |                        | Mastering Data Analysis in Excel (Duke University, Coursera)                                | [Certificate](https://www.coursera.org/account/accomplishments/verify/R5FUNZFZNCVQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) |
 |                        | Data Visualization – NumPy, Pandas, Matplotlib, Seaborn                                     | [Certificate](#) |
