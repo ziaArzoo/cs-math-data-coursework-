@@ -46,4 +46,4 @@ Detailed proofs and certificates are provided in the respective folders.
 - Linkedin : [LinkedIn](https://www.linkedin.com/in/md-ziaarzoo/)
 - Technical Blog: [Medium](https://medium.com/@ziaarzoo21)
 - LeetCode: [Leetcode](https://medium.com/@ziaarzoo21). 
-- Portfolio / Projects: [GitHub Projects](https://github.com/ziaarzoo21?tab=repositories)
+- Portfolio / Projects: [GitHub Projects](https://github.com/ziaArzoo?tab=repositories)
